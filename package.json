@@ -1,18 +1,69 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@swenkerorg/eius-vel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "swenker40",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/quae-dolore-nostrum": "^2.1.21",
+    "@juigorg/nisi-molestiae-ut": "^2.1.21",
+    "@kollorg/nihil-veniam-deserunt": "^1.2.21",
+    "@swenkerorg/atque-dolorem-accusantium": "^1.1.22",
+    "@swenkerorg/delectus-delectus-tempora": "^1.4.19",
+    "@swenkerorg/dolor-soluta-quas": "^2.1.21",
+    "@swenkerorg/dolorem-magnam-molestiae": "^2.2.20",
+    "@swenkerorg/doloribus-facilis-quidem": "^1.3.20",
+    "@swenkerorg/earum-numquam-consectetur": "^1.1.22",
+    "@swenkerorg/eos-aliquid-repellendus": "^3.1.17",
+    "@swenkerorg/esse-exercitationem-illo": "^4.3.17",
+    "@swenkerorg/excepturi-itaque-reiciendis": "^1.2.21",
+    "@swenkerorg/ipsam-deserunt-eos": "^2.0.22",
+    "@swenkerorg/laudantium-eaque-quod": "^2.2.20",
+    "@swenkerorg/maiores-voluptatibus-nemo": "^2.4.18",
+    "@swenkerorg/maxime-vero-similique": "^2.3.19",
+    "@swenkerorg/modi-dolorum-provident": "^3.3.18",
+    "@swenkerorg/nulla-voluptates-voluptates": "^1.2.21",
+    "@swenkerorg/odio-harum-et": "^2.2.19",
+    "@swenkerorg/potential-waddle": "^2.2.22",
+    "@swenkerorg/praesentium-aspernatur-esse": "^2.2.20",
+    "@swenkerorg/provident-dolores-delectus": "^1.1.22",
+    "@swenkerorg/quas-impedit-id": "^1.2.21",
+    "@swenkerorg/qui-assumenda-quia": "^1.1.22",
+    "@swenkerorg/quibusdam-facere-debitis": "^1.1.22",
+    "@swenkerorg/quis-expedita-aliquid": "^2.3.19",
+    "@swenkerorg/recusandae-laborum-iste": "^2.3.19",
+    "@swenkerorg/reiciendis-dolores-inventore": "^3.2.19",
+    "@swenkerorg/sapiente-itaque-accusantium": "^1.3.19",
+    "@swenkerorg/sunt-nemo-vitae": "^3.2.19",
+    "@swenkerorg/super-duper": "^2.5.19",
+    "@swenkerorg/voluptate-facere-illo": "^4.1.19",
+    "@swenkerorg/voluptate-voluptas-ad": "^2.1.21",
+    "@zitterorg/eum-veritatis-placeat": "^2.1.21",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "parents",
+    "stringify",
+    "Push",
+    "queueMicrotask",
+    "groupBy",
+    "tty"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/swenkerorg/eius-vel.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/swenkerorg/eius-vel/#readme",
+  "bugs": {
+    "url": "https://github.com/swenkerorg/eius-vel/issues"
   }
 }
